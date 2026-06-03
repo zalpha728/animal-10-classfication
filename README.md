@@ -7,12 +7,19 @@
 Python 3.9.25
 
 torch 2.6.0
+
 torchvision 0.21.0
+
 pillow 11.3.0
+
 tqdm 4.67.3
+
 matplotlib 3.9.4
+
 numpy 2.0.2
+
 tkinter
+
 
 ## 文件夹说明
 
